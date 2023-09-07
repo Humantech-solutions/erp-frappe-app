@@ -1,0 +1,47 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "connection_uri": "mongodb+srv://api-user:e0gzMJct8pbUtJdl@cluster0.uwiy0um.mongodb.net/auth?retryWrites=true&w=majority",
+ "creation": "2023-08-21 08:53:23.170785",
+ "default_view": "List",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "title"
+ ],
+ "fields": [
+  {
+   "fieldname": "title",
+   "fieldtype": "Data",
+   "label": "Title"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "is_virtual": 1,
+ "links": [],
+ "modified": "2023-08-21 08:53:23.170785",
+ "modified_by": "Administrator",
+ "module": "Custom",
+ "name": "test002",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "publish_changes": 1,
+ "select_database": "MongoDB",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
